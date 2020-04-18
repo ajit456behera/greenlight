@@ -276,8 +276,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "An E-learning platform for students to aid the learning process - ANYTIME, ANYWHERE. All you need to do is create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to MyOrg360 E-learning!
+    about: "Facing difficulties in remote collaboration? Then you're at the right place. SYNC is an one stop solution for all sort of your video conferencing needs - ANYTIME, ANYWHERE. All you need to do is create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to SYNC by MyOrg360!
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
@@ -293,7 +293,7 @@ en:
         signin_link: Sign In
         signup:
           info: A new user has signed up.
-          more-info: To allow this user to access MyOrg360 E-Learning you must approve their account in organization settings.
+          more-info: To allow this user to access SYNC you must approve their account in organization settings.
           admins_link: Visit the Organization Page
           subject: New User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
