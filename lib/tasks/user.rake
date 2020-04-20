@@ -41,6 +41,8 @@ namespace :user do
         user.add_role(:super_admin)
       elsif u[:role] == "admin"
         user.add_role(:admin)
+      elsif u[:role] == "viewer"
+        user.add_role(:viewer)
       end
 
       puts "Account succesfully created."
