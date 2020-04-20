@@ -9,7 +9,7 @@ namespace :user do
       name: args[:name],
       password: args[:password],
       email: args[:email],
-      role: args[:role] || "user",
+      role: args[:role] || "viewer",
       provider: args[:provider] || "greenlight"
     }
 
