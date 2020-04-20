@@ -313,7 +313,7 @@ en:
           admins_link: Visit the Organization Page
           subject: New Greenlight User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
-        subject: Invitation to join BigBlueButton
+        subject: Invitation to join SYNC from MyOrg360
         username: Your username is %{email}.
       password_reset:
         title: 'Password reset'
