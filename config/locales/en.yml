@@ -83,7 +83,7 @@ en:
       shared_access:
         info: Setting to disabled will remove the button from the Room options dropdown, preventing users from sharing rooms
         title: Allow Users to Share Rooms
-      subtitle: Customize Greenlight
+      subtitle: Customize SYNC
       title: Site Settings
     flash:
       approved: User has been successfully approved.
@@ -210,10 +210,10 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
-        This may be because you haven't updated to Greenlight 2.0.
+        SYNC encountered a database migration error.<br>
+        This may be because you haven't updated to SYNC 2.0.
       upgrade: Show me how to upgrade to 2.0!
-      version: We've released a new version of Greenlight, but your database isn't compatible.
+      version: We've released a new version of SYNC, but your database isn't compatible.
     messages:
       blank: can't be blank
       too_short: is too short
@@ -224,7 +224,7 @@ en:
       inclusion: is not included in the list
     no_provider:
       message: The site you are trying to access is not enabled
-      help: Please contact your system administrator to setup Greenlight
+      help: Please contact your system administrator to setup SYNC
     not_found:
       message: Sorry! The page you are looking for does not exist.
       help: Is it possible its been removed?
@@ -252,7 +252,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: SYNC
   header:
     all_recordings: All Recordings
     dropdown:
@@ -278,9 +278,9 @@ en:
   landing:
     about: "Facing difficulties in remote collaboration? Then you're at the right place. SYNC is an one stop solution for all sort of your video conferencing needs - ANYTIME, ANYWHERE. All you need to do is create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to SYNC by MyOrg360!
-    video: Watch our tutorial on using Greenlight
+    video: Watch our tutorial on using SYNC
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    version: We've released a new version of SYNC, but your database isn't compatible.
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
@@ -309,9 +309,9 @@ en:
         signup_info: To signup using your email, click the button below and follow the steps.
         signup_link: Sign Up
         signup:
-          info: A user that was invited has signed up to use Greenlight.
+          info: A user that was invited has signed up to use SYNC.
           admins_link: Visit the Organization Page
-          subject: New Greenlight User Sign Up
+          subject: New SYNC User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join SYNC from MyOrg360
         username: Your username is %{email}.
