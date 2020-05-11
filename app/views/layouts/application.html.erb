@@ -87,5 +87,16 @@
     </div>
 
     <%= render "shared/footer" %>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://support.myorg360.com/assets/chat/chat.min.js"></script>
+    <script>
+    $(function() {
+      new ZammadChat({
+        background: '#e6e5e5',
+        fontSize: '12px',
+        chatId: 1
+      });
+    });
+    </script>
   </body>
 </html>
